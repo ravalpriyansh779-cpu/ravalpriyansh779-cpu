@@ -25,27 +25,43 @@ Software Engineer with hands-on experience building scalable **backend and front
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ
 
 <div align="center">
 
-**Languages & Frameworks (JS/TS, Python, Java)**
+**Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,react,nodejs,express,fastapi" height="60" />
+<img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,go" height="60" />
 
-**Databases & APIs**
+**Backend & APIs**
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" height="60" />
-<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="60" />
 <br>
 <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" height="35" />
 <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="35" />
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="35" />
 <img src="https://img.shields.io/badge/RBAC-FF6F00?style=for-the-badge" height="35" />
 
-**Cloud Infrastructure & DevOps (AWS/GCP)**
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="60" />
+<br>
+<img src="https://img.shields.io/badge/UI_Components-4B0082?style=for-the-badge" height="35" />
+
+**Databases & Data**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" height="60" />
+<br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" height="35" />
+<img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="35" />
+
+**Cloud & DevOps**
 <br>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,git,linux" height="60" />
+<br>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="35" />
 
 **AI/ML & Specialized Systems**
 <br>
