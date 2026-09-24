@@ -6,7 +6,7 @@
 
 <br>
 
-### 🙋‍♂️ I'm Priyansh!
+<h1 align="center">🙋‍♂️ I'm Priyansh!</h1>
 
 Software Engineer with hands-on experience building scalable **backend and frontend applications**. I care about taking ownership of features end-to-end, from understanding the problem through to deployment. 
 
@@ -25,56 +25,60 @@ Software Engineer with hands-on experience building scalable **backend and front
 
 ---
 
-### 🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ
+<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 
 <div align="center">
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,go" height="60" />
+<img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,go" height="85" />
 
 **Backend & APIs**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="60" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="85" />
 <br>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" height="35" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="35" />
-<img src="https://img.shields.io/badge/RBAC-FF6F00?style=for-the-badge" height="35" />
+<br>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" height="45" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="45" />
+<img src="https://img.shields.io/badge/RBAC-FF6F00?style=for-the-badge" height="45" />
 
 **Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="60" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="85" />
 <br>
-<img src="https://img.shields.io/badge/UI_Components-4B0082?style=for-the-badge" height="35" />
+<br>
+<img src="https://img.shields.io/badge/UI_Components-4B0082?style=for-the-badge" height="45" />
 
 **Databases & Data**
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" height="60" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" height="85" />
 <br>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" height="35" />
-<img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="35" />
+<br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" height="45" />
+<img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="45" />
 
 **Cloud & DevOps**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,git,linux" height="60" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,git,linux" height="85" />
 <br>
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="35" />
+<br>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="45" />
 
 **AI/ML & Specialized Systems**
 <br>
-<img src="https://img.shields.io/badge/RAG-FF9900?style=for-the-badge" height="35" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-8A2BE2?style=for-the-badge" height="35" />
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/RAG-FF9900?style=for-the-badge" height="45" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-8A2BE2?style=for-the-badge" height="45" />
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="45" />
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+<h2 align="center">📊 GɪᴛHᴜʙ Aɴᴀʟʏᴛɪᴄs</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravalpriyansh779-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ACC1&icon_color=00ACC1" alt="Priyansh's GitHub Stats" width="48%" />
@@ -87,7 +91,7 @@ Software Engineer with hands-on experience building scalable **backend and front
 
 ---
 
-### 📈 Contribution Activity
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Aᴄᴛɪᴠɪᴛʏ</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravalpriyansh779-cpu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ACC1&line=00ACC1&point=FFFFFF" alt="Contribution Graph" width="100%" />
