@@ -1,18 +1,18 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00ACC1&center=true&vCenter=true&random=false&width=800&lines=Hey%2C+I'm+Priyansh+Raval+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack;Building+scalable+systems+end-to-end.;Taking+ownership+from+whiteboard+to+production." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00ACC1&center=true&vCenter=true&random=false&width=800&lines=%24+whoami;Priyansh+Raval+-+Software+Engineer;%24+cat+skills.json;AI%2FRAG+%7C+Blockchain+%7C+Full-Stack;%24+status;Available+for+full-time+opportunities." alt="Typing SVG" />
 </a>
 
-<br>
+<img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" align="right" width="280" alt="Confetti Owl" />
 
 <h1 align="center">🙋‍♂️ I'm Priyansh!</h1>
 
-Software Engineer with hands-on experience building scalable **backend and frontend applications**. I care about taking ownership of features end-to-end, from understanding the problem through to deployment. 
+Software Engineer with hands-on experience building scalable **backend and frontend applications**. I care about taking ownership of features end-to-end
 
 - 💼 **Software Developer Intern @ SITESEW** — Architected APIs and built scalable systems using FastAPI, PostgreSQL, and automated CI/CD pipelines with GitHub Actions.
 - 🧠 Built **[CampusLens](#)** — Multi-tenant RAG platform utilizing LangChain, Python, and vector databases.
-- 📋 Built **[PulseBoard](#)** — Real-time collaborative Kanban board handling UI components and WebSockets for instant state sync.
+- 📋 Built **[PulseBoard](#)** — Real-time collaborative Kanban board handling UI components and WebSockets.
 - 🤖 Built **[TaskForge](#)** — AI operations dashboard with RBAC, REST APIs, and a multi-agent tool-calling system.
 - 📄 Published paper at **ICAWTM-26** (Feb 2026) — ML-based energy optimization.
 - 🔍 **Actively looking for Software Engineer roles** — available immediately, no notice period.
@@ -22,6 +22,8 @@ Software Engineer with hands-on experience building scalable **backend and front
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
+
+<br clear="right"/>
 
 ---
 
@@ -78,7 +80,14 @@ Software Engineer with hands-on experience building scalable **backend and front
 
 ---
 
-<h2 align="center">📊 GɪᴛHᴜʙ Aɴᴀʟʏᴛɪᴄs</h2>
+<h2 align="center">📈 Lɪᴠᴇ Aᴄᴛɪᴠɪᴛʏ</h2>
+
+<div align="center">
+  <!-- ⚠️ THIS REQUIRES THE SNAKE GITHUB ACTION (SEE BELOW) -->
+  <img src="https://raw.githubusercontent.com/ravalpriyansh779-cpu/ravalpriyansh779-cpu/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" width="100%" />
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravalpriyansh779-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ACC1&icon_color=00ACC1" alt="Priyansh's GitHub Stats" width="48%" />
@@ -89,23 +98,38 @@ Software Engineer with hands-on experience building scalable **backend and front
   <img src="https://github-profile-trophy.vercel.app/?username=ravalpriyansh779-cpu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Priyansh's Trophies" />
 </div>
 
----
+<br>
 
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Aᴄᴛɪᴠɪᴛʏ</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravalpriyansh779-cpu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ACC1&line=00ACC1&point=FFFFFF" alt="Contribution Graph" width="100%" />
-</div>
-
-<!-- 
-  ⚠️ REQUIREMENT FOR 3D GRAPH: 
-  To make the 3D contribution graph below work, you must set up a GitHub Action. 
-  Go to your profile repository -> Actions -> New workflow -> set up a workflow yourself.
-  Name it `3d-contrib.yml` and paste the code from this link: 
-  https://github.com/yoshi389111/github-profile-3d-contrib#usage
--->
+<!-- ⚠️ THIS REQUIRES THE 3D GRAPH GITHUB ACTION (SEE BELOW) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/ravalpriyansh779-cpu/ravalpriyansh779-cpu/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+---
+
+<h2 align="center">💻 Dᴇᴠ Eɴᴠɪʀᴏɴᴍᴇɴᴛ</h2>
+
+<div align="center">
+
+| Category | Tools |
+| :--- | :--- |
+| **Editor** | VS Code, Neovim, IntelliJ IDEA |
+| **Terminal** | Windows Terminal, Oh My Zsh |
+| **Productivity** | Notion, Jira, Postman, Figma |
+| **OS** | Windows, Ubuntu |
+
+</div>
+
+---
+
+<h2 align="center">🎯 Wʜᴀᴛ I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ</h2>
+
+<div align="center">
+
+I'm actively seeking **Software Engineer / AI-Backend** roles where I can take ownership of features end-to-end, from whiteboard to production. I thrive in fast-paced environments, love collaborating with cross-functional teams, and am always eager to learn new technologies.
+
+**Let's build something extraordinary together.** 🚀
+
 </div>
 
 ---
