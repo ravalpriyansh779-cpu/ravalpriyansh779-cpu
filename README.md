@@ -1,21 +1,21 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00ACC1&center=true&vCenter=true&random=false&width=800&lines=Hey%2C+I'm+Priyansh+Raval+%F0%9F%91%8B;AI%2FRAG+%7C+Blockchain+%7C+Full-Stack;Building+scalable+systems+end-to-end.;Let's+connect+and+build+something+extraordinary." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00ACC1&center=true&vCenter=true&random=false&width=800&lines=Hey%2C+I'm+Priyansh+Raval+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack;Building+scalable+systems+end-to-end.;Taking+ownership+from+whiteboard+to+production." alt="Typing SVG" />
 </a>
 
 <br>
 
-### 🙋‍♂️ About Me
+### 🙋‍♂️ I'm Priyansh!
 
-Final-year B.Tech ICT student building across **AI/LLM systems, blockchain, and full-stack web development**. I care about shipping things that actually work end-to-end.
+Software Engineer with hands-on experience building scalable **backend and frontend applications**. I care about taking ownership of features end-to-end, from understanding the problem through to deployment. 
 
-- 💼 **Software Developer Intern @ SITESEW** — FastAPI, PostgreSQL, GitHub Actions CI/CD
-- 🧠 Built **[CampusLens](#)** — Multi-tenant RAG platform
-- 📋 Built **[PulseBoard](#)** — Real-time collaborative Kanban board
-- 🤖 Built **[TaskForge](#)** — AI operations dashboard with RBAC and a tool-calling agent
-- 📄 Published paper at **ICAWTM-26** (Feb 2026) — ML-based energy optimization
-- 🔍 **Actively looking for SWE / AI-backend roles** — available for full-time opportunities immediately
+- 💼 **Software Developer Intern @ SITESEW** — Architected APIs and built scalable systems using FastAPI, PostgreSQL, and automated CI/CD pipelines with GitHub Actions.
+- 🧠 Built **[CampusLens](#)** — Multi-tenant RAG platform utilizing LangChain, Python, and vector databases.
+- 📋 Built **[PulseBoard](#)** — Real-time collaborative Kanban board handling UI components and WebSockets for instant state sync.
+- 🤖 Built **[TaskForge](#)** — AI operations dashboard with RBAC, REST APIs, and a multi-agent tool-calling system.
+- 📄 Published paper at **ICAWTM-26** (Feb 2026) — ML-based energy optimization.
+- 🔍 **Actively looking for Software Engineer roles** — available immediately, no notice period.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyansh-raval-3a98b7366/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00acc1?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)
@@ -29,15 +29,21 @@ Final-year B.Tech ICT student building across **AI/LLM systems, blockchain, and 
 
 <div align="center">
 
-**Core Languages & Frameworks**
+**Languages & Frameworks (JS/TS, Python, Java)**
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,py,ts,js,react,nodejs,express,fastapi,solidity" height="60" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,react,nodejs,express,fastapi" height="60" />
 
-**Databases & Data Layer**
+**Databases & APIs**
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,pinecone" height="60" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" height="60" />
+<br>
+<br>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" height="35" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="35" />
+<img src="https://img.shields.io/badge/RBAC-FF6F00?style=for-the-badge" height="35" />
 
-**DevOps & Cloud**
+**Cloud Infrastructure & DevOps (AWS/GCP)**
 <br>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,git,linux" height="60" />
 
@@ -47,11 +53,6 @@ Final-year B.Tech ICT student building across **AI/LLM systems, blockchain, and 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="35" />
 <img src="https://img.shields.io/badge/Multi--Agent_Systems-8A2BE2?style=for-the-badge" height="35" />
 <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35" />
-<br>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" height="35" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="35" />
-<img src="https://img.shields.io/badge/RBAC-FF6F00?style=for-the-badge" height="35" />
 
 </div>
 
