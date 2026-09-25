@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00ACC1&center=true&vCenter=true&random=false&width=800&lines=%24+;Priyansh+Raval+-+Software+Engineer;%24+;A" alt="Typing SVG" />
 </a>
 
-<img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" align="right" width="280" alt="Confetti Owl" />
-
 <h1 align="center">🙋‍♂️ I'm Priyansh!</h1>
 
 Software Engineer with hands-on experience building scalable **backend and frontend applications**. I care about taking ownership of features end-to-end, from understanding the problem through to deployment. 
