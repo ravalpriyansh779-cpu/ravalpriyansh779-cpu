@@ -1,140 +1,114 @@
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00ACC1&center=true&vCenter=true&random=false&width=800&lines=%24+;Priyansh+Raval+-+Software+Engineer;%24+;A" alt="Typing SVG" />
-</a>
-
-<h1 align="center">🙋‍♂️ I'm Priyansh!</h1>
-
-Software Engineer with hands-on experience building scalable **backend and frontend applications**. I care about taking ownership of features end-to-end, from understanding the problem through to deployment. 
-
-- 💼 **Software Developer Intern @ SITESEW** — Architected APIs and built scalable systems using FastAPI, PostgreSQL, and automated CI/CD pipelines with GitHub Actions.
-- 🧠 Built **[CampusLens](#)** — Multi-tenant RAG platform utilizing LangChain, Python, and vector databases.
-- 📋 Built **[PulseBoard](#)** — Real-time collaborative Kanban board handling UI components and WebSockets.
-- 🤖 Built **[TaskForge](#)** — AI operations dashboard with RBAC, REST APIs, and a multi-agent tool-calling system.
-- 📄 Published paper at **ICAWTM-26** (Feb 2026) — ML-based energy optimization.
-- 🔍 **Actively looking for Software Engineer roles** — available immediately, no notice period.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyansh-raval-3a98b7366/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00acc1?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
+<img src="https://capsule-render.vercel.app/api?
+type=waving&color=0:0F2027,50:2C5364,100:2EA8E5&height=220&section=header&text=Priya
+Stack%20%2B%20Backend%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA8E5&center=true&vCenter=t
+to-end%3A+whiteboard+%E2%86%92+production;Backend-leaning+fullstack+engineer;Building+scalable+APIs%2C+realtime+systems+%26+RAG+pipelines;Currently+preparing+for+Software+Engineer+roles"
+alt="Typing SVG" />
+Portfolio
+LinkedIn
+Email
+Profile Views
 </div>
-
-<br clear="right"/>
-
----
-
-<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
-
+👋 About Me
+🎓 B.Tech, Information & Communications Technology @ Pandit Deendayal Energy
+University (2023–2027)
+⚡ Reduced p95 database query latency by 40% via advanced indexing +
+connection pooling during my SITESEW internship
+🚀 Cut manual deployment time from 45 → 10 minutes (77%) by championing
+automated CI/CD pipelines with GitHub Actions
+🧠 Architected a multi-tenant RAG platform (CampusLens) with namespacescoped vector search across isolated tenants using Pinecone + PostgreSQL
+🔐 Shipped a production-grade AI ops dashboard (TaskForge) with JWT auth,
+route-level authorization, and audit-logged agent tool-calls, fully containerized with
+Docker
+⚙️ Built a real-time collaborative Kanban board (PulseBoard) with sub-second
+WebSocket sync and optimistic UI across distributed clients
+📄 Published research on ML-driven energy optimization for wastewater treatment
+(ICAWTM-26)
+📬 Actively interviewing for Software Engineer roles — available to start
+immediately
 <div align="center">
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,go" height="85" />
-
-**Backend & APIs**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="85" />
-<br>
-<br>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" height="45" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="45" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="45" />
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="45" />
-<img src="https://img.shields.io/badge/RBAC-FF6F00?style=for-the-badge" height="45" />
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="85" />
-<br>
-<br>
-<img src="https://img.shields.io/badge/UI_Components-4B0082?style=for-the-badge" height="45" />
-
-**Databases & Data**
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" height="85" />
-<br>
-<br>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" height="45" />
-<img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" height="45" />
-<img src="https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="45" />
-
-**Cloud & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,git,linux" height="85" />
-<br>
-<br>
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="45" />
-
-**AI/ML & Specialized Systems**
-<br>
-<img src="https://img.shields.io/badge/RAG-FF9900?style=for-the-badge" height="45" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="45" />
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-8A2BE2?style=for-the-badge" height="45" />
-<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="45" />
-
+Latency
+Deployment
+Projects
+Publication
 </div>
-
----
-
-<h2 align="center">📈 Lɪᴠᴇ Aᴄᴛɪᴠɪᴛʏ</h2>
-
+🛠️ Tech Stack
 <div align="center">
-  <!-- ⚠️ THIS REQUIRES THE SNAKE GITHUB ACTION (SEE BELOW) -->
-  <img src="https://raw.githubusercontent.com/ravalpriyansh779-cpu/ravalpriyansh779-cpu/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" width="100%" />
+Languages
+JavaScript
+TypeScript
+Python
+Java
+Frontend
+React
+HTML5
+CSS3
+Backend & APIs
+Node.js
+Express
+FastAPI
+Spring Boot
+REST APIs
+Data & AI
+PostgreSQL
+Pinecone
+LangChain
+Cloud & DevOps
+Docker
+AWS
+GitHub Actions
+Git
 </div>
-
-<br>
-
+🏗️ Featured Projects
+<table> <tr> <td width="50%" valign="top">
+🔎 CampusLens — Multi-Tenant RAG Platform
+Namespace-scoped vector search across isolated tenants (Pinecone + PostgreSQL),
+plus a high-throughput document ingestion pipeline for semantic retrieval at scale.
+React FastAPI Python LangChain Pinecone PostgreSQL
+</td> <td width="50%" valign="top">
+🛡️ TaskForge — Secure AI Operations Dashboard
+Whiteboard-to-production internal ops console: JWT auth, route-level authorization,
+audit-logged AI agent tool-calls, fully Dockerized.
+React TypeScript Node.js Express.js Docker PostgreSQL
+</td> </tr> <tr> <td colspan="2" valign="top">
+📋 PulseBoard — Real-Time Collaborative Kanban Board
+Owned end-to-end: WebSocket-based event broadcasting + optimistic UI updates
+delivering sub-second sync across distributed clients, backed by an RBAC-secured
+PostgreSQL schema.
+React TypeScript Node.js Socket.io PostgreSQL WebSockets
+</td> </tr> </table>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?
+username=ravalpriyansh779-cpu&no-bg=true&noframe=true&row=1&column=6&theme=tokyonight&margin-w=15&margin-h=15"
+alt="trophies"/> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/ravalpriyansh779-
+cpu/ravalpriyansh779-cpu/output/github-contribution-grid-snake-dark.svg" alt="snake
+animation"/> </div>
+(animated automatically each day — see setup note below)
+📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravalpriyansh779-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ACC1&icon_color=00ACC1" alt="Priyansh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravalpriyansh779-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ACC1" alt="Top Languages" width="48%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?
+username=ravalpriyansh779-
+cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+alt="GitHub Stats"/> <img height="165" src="https://github-readmestats.vercel.app/api/top-langs/?username=ravalpriyansh779-
+cpu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravalpriyansh779-
+cpu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?
+username=ravalpriyansh779-
+cpu&bg_color=00000000&color=2ea8e5&line=2ea8e5&point=ffffff&area=true&hide_border=tru
+alt="Contribution Graph" width="90%"/>
 </div>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravalpriyansh779-cpu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Priyansh's Trophies" />
-</div>
-
-<br>
-
-<!-- ⚠️ THIS REQUIRES THE 3D GRAPH GITHUB ACTION (SEE BELOW) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ravalpriyansh779-cpu/ravalpriyansh779-cpu/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-</div>
-
----
-
-<h2 align="center">💻 Dᴇᴠ Eɴᴠɪʀᴏɴᴍᴇɴᴛ</h2>
-
-<div align="center">
-
-| Category | Tools |
-| :--- | :--- |
-| **Editor** | VS Code, Neovim, IntelliJ IDEA |
-| **Terminal** | Windows Terminal, Oh My Zsh |
-| **Productivity** | Notion, Jira, Postman, Figma |
-| **OS** | Windows, Ubuntu |
-
-</div>
-
----
-
-<h2 align="center">🎯 Wʜᴀᴛ I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ</h2>
-
-<div align="center">
-
-I'm actively seeking **Software Engineer / AI-Backend** roles where I can take ownership of features end-to-end, from whiteboard to production. I thrive in fast-paced environments, love collaborating with cross-functional teams, and am always eager to learn new technologies.
-
-**Let's build something extraordinary together.** 🚀
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ravalpriyansh779-cpu&color=0d47a1&style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge)
-
+📫 Let's Connect
+Portfolio
+LinkedIn
+Gmail
+"Own the feature end-to-end — from whiteboard to production."
+<img src="https://capsule-render.vercel.app/api?
+type=waving&color=0:2C5364,100:0F2027&height=100&section=footer"
+width="100%"/>
 </div>
