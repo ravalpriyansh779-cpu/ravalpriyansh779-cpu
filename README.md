@@ -1,20 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EA8E5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Priyansh+Raval;Software+Engineer+%7C+Full-Stack+Developer;I+build+scalable+backend+%2B+frontend+systems;Currently+shipping+RAG%2C+Realtime+%26+DevOps+projects" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=00d9ff&center=true&vCenter=true&random=false&width=900&lines=%24+whoami;Priyansh+Raval;%24+cat+skills.json;Software+Engineer+%7C+Full-Stack;Building+scalable+systems+end-to-end.;Taking+ownership+from+whiteboard+to+production." alt="Typing SVG" />
+</a>
+
+<br>
 
 ### 🚀 Software Engineering student turning ideas into production-ready, end-to-end systems
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ravalpriyansh779-cpu.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-raval-3a98b7366/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshraval26@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Enter_The_Arena-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://ravalpriyansh779-cpu.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-raval-3a98b7366/)
+[![Email](https://img.shields.io/badge/Email-Send_A_Raven-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshraval26@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ravalpriyansh779-cpu&color=2ea8e5&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ravalpriyansh779-cpu&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Tʜᴇ Mɪssɪᴏɴ
 
 - 🎓 B.Tech in Information & Communications Technology, Pandit Deendayal Energy University (2023–2027)
 - 🛠️ I take features from **whiteboard → design → implementation → deployment**
@@ -22,47 +26,57 @@
 - 📄 Published research on ML-driven energy optimization for wastewater treatment (ICAWTM-26)
 - 🌱 Currently deepening my knowledge of system design, distributed systems, and AI-native application architecture
 - 💬 Ask me about RAG pipelines, real-time collaboration systems, or backend performance tuning
+- 🔍 **Actively looking for Software Engineer roles** — available immediately, no notice period.
 
 ---
 
-### 🧰 Tech Stack
+<h2 align="center">⚔️ Tʜᴇ Aʀsᴇɴᴀʟ</h2>
 
 <div align="center">
 
 **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp" height="85" />
+
+**Backend & APIs**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" height="85" />
+<br><br>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" height="45" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="45" />
+<img src="https://img.shields.io/badge/RBAC-00d9ff?style=for-the-badge" height="45" />
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="85" />
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+**Databases & Data**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" height="85" />
+<br><br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" height="45" />
+<img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="45" />
 
-**Data & Infra**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0A0A23?style=flat-square&logo=pinecone&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**Cloud & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,git,linux" height="85" />
+<br><br>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="45" />
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+**AI/ML & Specialized Systems**
+<br>
+<img src="https://img.shields.io/badge/RAG-00d9ff?style=for-the-badge" height="45" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="45" />
+<img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="45" />
 
 </div>
 
 ---
 
-### 🏗️ Featured Projects
+<h2 align="center">🏗️ Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
 
 <table>
 <tr>
@@ -113,26 +127,38 @@ Applied ML to optimize energy consumption across operational parameters, transla
 
 ---
 
-### 📊 GitHub Analytics
+<h2 align="center">📈 Bᴀᴛᴛʟᴇ Rᴇᴄᴏʀᴅ</h2>
 
 <div align="center">
+  <!-- REQUIRES THE SNAKE GITHUB ACTION (SEE BELOW) -->
+  <img src="https://raw.githubusercontent.com/ravalpriyansh779-cpu/ravalpriyansh779-cpu/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" width="100%" />
+</div>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ravalpriyansh779-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravalpriyansh779-cpu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravalpriyansh779-cpu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravalpriyansh779-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff" alt="Priyansh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravalpriyansh779-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff" alt="Top Languages" width="48%" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravalpriyansh779-cpu&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravalpriyansh779-cpu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Priyansh's Trophies" />
+</div>
 
+<br>
+
+<!-- REQUIRES THE 3D GRAPH GITHUB ACTION (SEE BELOW) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ravalpriyansh779-cpu/ravalpriyansh779-cpu/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect
+### 📫 Lᴇᴛ's Cᴏɴɴᴇᴄᴛ
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-2EA8E5?style=for-the-badge)](https://ravalpriyansh779-cpu.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00d9ff?style=for-the-badge)](https://ravalpriyansh779-cpu.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-raval-3a98b7366/)
 [![Gmail](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshraval26@gmail.com)
 
