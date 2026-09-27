@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=00d9ff&center=true&vCenter=true&random=false&width=900&lines=%24+whoami;Priyansh+Raval;Software+Enthusiast;Lifetime+Learner;AI%2FML+Researcher;%24+status;Ready+to+build." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=00d9ff&center=true&vCenter=true&random=false&width=900&lines=Priyansh+Raval;Software+Engineer" alt="Typing SVG" />
 </a>
 
 <br>
@@ -127,29 +127,23 @@ Applied ML to optimize energy consumption across operational parameters, transla
 
 ---
 
-<h2 align="center">📈 Bᴀᴛᴛʟᴇ Rᴇᴄᴏʀᴅ</h2>
+<h2 align="center">📊 GɪᴛHᴜʙ Sᴛᴀᴛs</h2>
 
 <div align="center">
-  <!-- REQUIRES THE SNAKE GITHUB ACTION (SEE BELOW) -->
-  <img src="https://raw.githubusercontent.com/ravalpriyansh779-cpu/ravalpriyansh779-cpu/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" width="100%" />
+
+  <img src="https://streak-stats.demolab.com?user=ravalpriyansh779-cpu&theme=tokyonight&hide_border=true&background=0D1117&stroke=1a2a3a&ring=00d9ff&fire=d4a94a&currStreakLabel=00d9ff&sideLabels=9aa8b3&dates=6e7d89&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ravalpriyansh779-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=d4a94a&text_color=9aa8b3&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravalpriyansh779-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=9aa8b3&langs_count=6&hide=html,css,scss" alt="Top Languages" height="165" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravalpriyansh779-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff" alt="Priyansh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravalpriyansh779-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravalpriyansh779-cpu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Priyansh's Trophies" />
-</div>
-
-<br>
-
-<!-- REQUIRES THE 3D GRAPH GITHUB ACTION (SEE BELOW) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ravalpriyansh779-cpu/ravalpriyansh779-cpu/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravalpriyansh779-cpu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=d4a94a&area=true&area_color=00d9ff" alt="Contribution Activity" width="100%" />
 </div>
 
 ---
