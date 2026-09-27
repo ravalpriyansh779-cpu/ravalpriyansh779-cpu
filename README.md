@@ -127,23 +127,22 @@ Applied ML to optimize energy consumption across operational parameters, transla
 
 ---
 
-<h2 align="center">📊 GɪᴛHᴜʙ Sᴛᴀᴛs</h2>
+<h2 align="center">🐍 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀɪᴅ</h2>
 
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=ravalpriyansh779-cpu&theme=tokyonight&hide_border=true&background=0D1117&stroke=1a2a3a&ring=00d9ff&fire=d4a94a&currStreakLabel=00d9ff&sideLabels=9aa8b3&dates=6e7d89&currStreakNum=e6edf3&sideNums=e6edf3" alt="GitHub Streak" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ravalpriyansh779-cpu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=d4a94a&text_color=9aa8b3&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravalpriyansh779-cpu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=9aa8b3&langs_count=6&hide=html,css,scss" alt="Top Languages" height="165" />
-
+  <img src="https://raw.githubusercontent.com/ravalpriyansh779-cpu/ravalpriyansh779-cpu/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
 </div>
 
-<br>
+---
+
+<h2 align="center">🎯 Wʜᴀᴛ I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravalpriyansh779-cpu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=d4a94a&area=true&area_color=00d9ff" alt="Contribution Activity" width="100%" />
+
+I'm actively seeking **Software Engineer / AI-Backend** roles where I can take ownership of features end-to-end — from whiteboard to production. I thrive in fast-paced environments, love collaborating with cross-functional teams, and I'm always learning something new.
+
+**Let's build something worth shipping.**
+
 </div>
 
 ---
